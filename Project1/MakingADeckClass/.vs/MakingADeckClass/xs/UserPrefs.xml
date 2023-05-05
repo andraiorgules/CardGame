@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{F8B9130B-4D6B-44F9-82BB-8C0EC9970C36}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Card.cs">
+    <Files>
+      <File FileName="Program.cs" Line="19" Column="41" />
+      <File FileName="Deck.cs" Line="13" Column="1" />
+      <File FileName="Card.cs" Line="1" Column="1" />
+      <File FileName="Player.cs" />
+      <File FileName="Game.cs" />
+      <File FileName="Application.cs" />
+      <File FileName="Utility.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MakingADeckClass" expanded="True">
+            <Node name="MakingADeckClass" expanded="True">
+              <Node name="Card.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MakingADeckClass PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
